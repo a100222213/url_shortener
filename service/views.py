@@ -29,7 +29,7 @@ def redirector_view(request, slug):
         service = models.UrlModel.objects.get(slug=slug)
         url = service.url
 		
-		if not url.startswith('http://') and not url.startswith('https://'):
+        if not url.startswith('http://') and not url.startswith('https://'):
             url = f'http://{url}'
 			
         return HttpResponseRedirect(url)
