@@ -8,7 +8,7 @@
  - Django Rest Framework
  - Ajax
 
-**Demo:** [https://url-shortener-drf.herokuapp.com/](https://url-shortener-drf.herokuapp.com/)
+**Demo:** [https://james-shorturl.herokuapp.com/](https://james-shorturl.herokuapp.com/)
 
 **API:**
 URL: `https://url-shortener-drf.herokuapp.com/api/shorten-url/`
