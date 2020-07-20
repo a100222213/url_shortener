@@ -11,7 +11,7 @@
 **Demo:** [https://james-shorturl.herokuapp.com/](https://james-shorturl.herokuapp.com/)
 
 **API:**
-URL: `https://url-shortener-drf.herokuapp.com/api/shorten-url/`
+URL: `https://james-shorturl.herokuapp.com/api/shorten-url/`
 Method: `POST`
 Body:
 
